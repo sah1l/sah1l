@@ -63,8 +63,6 @@
 
   [![DevCred Heatmap](https://devcred.offsprint.xyz/api/widget/sahil/heatmap.svg)](https://devcred.offsprint.xyz/sahil)
 
-  <sub>Unified contributions across GitHub, GitLab, Bitbucket & Azure DevOps via
-  [DevCred](https://devcred.offsprint.xyz/sahil)</sub>
 
   ---
 
@@ -72,4 +70,3 @@
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil---patel)
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahilpatel2339@gmail.com)
-  [![DevCred](https://img.shields.io/badge/-DevCred-000000?style=flat-square&logo=github&logoColor=white)](https://devcred.offsprint.xyz/sahil)
